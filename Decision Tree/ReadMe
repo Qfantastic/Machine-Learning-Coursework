@@ -1,0 +1,3 @@
+1. Implemented decision tree using ID3 Algorithm
+2. Performed pruning to avoid overfiiting and for improving Test accuracy
+3. Compared decision tree using ID3 with a random tree for prooving that decision tree using ID3 is the compact solution available among all trees.
