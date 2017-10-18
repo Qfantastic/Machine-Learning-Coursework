@@ -1,0 +1,5 @@
+Implemented artificial neural network for multi class classification
+Activation functions- Softmax function for output layer and sigmoid funtion for input layer
+Performed backpropogation algorithm to minimize error function
+Error function -MSE
+Implemented in Python
