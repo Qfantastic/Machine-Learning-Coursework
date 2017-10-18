@@ -1,3 +1,4 @@
 HomeWorks
 
 1.Implemented Decision tree using ID3 algorithm and performed pruning to avoid overfitting.
+2. Implemented artificial neural network for multi class classification
